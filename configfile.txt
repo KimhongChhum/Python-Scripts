@@ -1,0 +1,7 @@
+config terminal
+
+vlan 10
+
+end
+
+write
